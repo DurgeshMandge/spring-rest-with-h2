@@ -1,6 +1,6 @@
 ### Endpoints :
-- Get :  /getAllUsers
-         /getUser/{id}
+- Get *   /getAllUsers
+      *   /getUser/{id}
 - Post : /addUser
         body -> {
                     "id":"4",
